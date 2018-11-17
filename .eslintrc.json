@@ -1,0 +1,15 @@
+{
+  "root": true,
+  "extends": "standard",
+  "rules": {
+    "no-extra-semi": "error",
+    "space-before-function-paren": 0,
+    "semi": [
+      2,
+      "always"
+    ]
+  },
+  "env": {
+    "node": true
+  }
+}
